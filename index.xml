@@ -52,6 +52,46 @@
     </item>
     
     <item>
+      <title>Graph Pre-training for AMR Parsing and Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-etal-2022-graph/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-etal-2022-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Pre-training for AMR Parsing and Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-graph-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-graph-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Typed Syntactic Dependencies for Targeted Sentiment Classification Using Graph Attention Neural Network</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-investigating-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-investigating-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Representation for Dialogue Modeling</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-semantic-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-semantic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-State LSTMs For Sequence-to-Sequence Learning</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-sentence-state-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-sentence-state-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://goodbai-nlp.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -127,6 +167,14 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Online Back-Parsing for AMR-to-Text Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-online-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-online-2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -252,6 +300,30 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A Bilingual Adversarial Autoencoder for Unsupervised Bilingual Lexicon Induction</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-bilingual-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-bilingual-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duality Regularization for Unsupervised Bilingual Lexicon Induction</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-duality-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-duality-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-improving-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-improving-2018/</guid>
+      <description></description>
     </item>
     
     <item>

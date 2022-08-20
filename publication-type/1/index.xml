@@ -31,5 +31,45 @@
 </description>
     </item>
     
+    <item>
+      <title>Graph Pre-training for AMR Parsing and Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-etal-2022-graph/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-etal-2022-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Pre-training for AMR Parsing and Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-graph-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-graph-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Representation for Dialogue Modeling</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-semantic-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-semantic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence-State LSTMs For Sequence-to-Sequence Learning</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-sentence-state-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-sentence-state-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Back-Parsing for AMR-to-Text Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-online-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-online-2020/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
