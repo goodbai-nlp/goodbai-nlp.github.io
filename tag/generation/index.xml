@@ -5,12 +5,20 @@
     <link>https://goodbai-nlp.github.io/tag/generation/</link>
       <atom:link href="https://goodbai-nlp.github.io/tag/generation/index.xml" rel="self" type="application/rss+xml" />
     <description>generation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://goodbai-nlp.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>generation</title>
       <link>https://goodbai-nlp.github.io/tag/generation/</link>
     </image>
+    
+    <item>
+      <title>Graph Pre-training for AMR Parsing and Generation</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-graph-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-graph-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online Back-Parsing for AMR-to-Text Generation</title>
