@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine translation | Xuefeng Bai&#39;s homepage</title>
+    <link>https://goodbai-nlp.github.io/tag/machine-translation/</link>
+      <atom:link href="https://goodbai-nlp.github.io/tag/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine translation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://goodbai-nlp.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>machine translation</title>
+      <link>https://goodbai-nlp.github.io/tag/machine-translation/</link>
+    </image>
+    
+    <item>
+      <title>A Bilingual Adversarial Autoencoder for Unsupervised Bilingual Lexicon Induction</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-bilingual-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-bilingual-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duality Regularization for Unsupervised Bilingual Lexicon Induction</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-duality-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-duality-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Vector Space Word Representations Via Kernel Canonical Correlation Analysis</title>
+      <link>https://goodbai-nlp.github.io/publication/bai-improving-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://goodbai-nlp.github.io/publication/bai-improving-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
