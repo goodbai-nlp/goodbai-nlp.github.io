@@ -1,6 +1,6 @@
 # 📝 Selected Publications 
 
-Please go to [Google Scholar]() for all publications.
+Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for all publications.
 
 ## [Recent work on LLMs]
 
