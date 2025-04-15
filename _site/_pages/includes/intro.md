@@ -1,0 +1,8 @@
+I am currently an assistant professor at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen). Before joining HITsz, I received my PhD degree (working on semantic-based dialogue modeling) from Zhejiang University in Mar 2023, where I was honored to be advised by <a href='https://frcchang.github.io/'>Yue Zhang</a>. I earned my master degree (working on unsupervised word translation) from Harbin Institute of Technology, supervised by <a href='https://homepage.hit.edu.cn/zhaotiejun'>Tiejun Zhao</a> and <a href='https://homepage.hit.edu.cn/caohailong'>Hailong Cao</a>. I obtained my undergraduate degree on Computer Science and Technology from Harbin Institute of Technology.
+
+My research area spans from large language models (LLMs) and structured learning. I recently focus on developing technical solutions to bridge the gap between LLMs and structured data (Knowledge Graphs, Semantic Graphs, Protein Structures). Additionally, I work on efficient reinforcement learning (RL) algorithms to align LLMs with human values, ensuring their safe and ethical deployment. Beyond this, I maintain a strong interest in fundamental NLP tasks (syntax and semantics) as well as real-world NLP applications (dialogue systems and machine translation).
+
+<p>
+  <span style="color: red; font-weight: bold;">Recruit:</span>
+  I am currently looking for self-motivated undergraduate students, interns, and prospective Master's (2025/2026) or PhD (2026) candidates to doing research with me. If you have a strong interest in LLMs or structures, I’d love to hear from you! Please feel free to reach out via email or visit me at L1910 to discuss potential opportunities.
+</p>

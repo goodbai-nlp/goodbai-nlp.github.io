@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
+
+  # - title: "Educations"
+  #   url: "/#-educations"
+  
+  - title: "Others"
+    url: "/#-teaching"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/#-internships"
