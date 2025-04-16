@@ -13,7 +13,7 @@ Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgA
 ## [Representative work on Fundamental NLP]
 
 - ``ACL 2022`` [Graph-pretraining for AMR Parsing and Generation](https://aclanthology.org/2022.acl-long.415/), **Xuefeng Bai**, Yulong Chen and Yue Zhang. [[code](https://github.com/goodbai-nlp/AMRBART)] [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-pre-training-for-amr-parsing-and-1/amr-to-text-generation-on-ldc2020t02)](https://paperswithcode.com/sota/amr-to-text-generation-on-ldc2020t02?p=graph-pre-training-for-amr-parsing-and-1)
+- `ACL 2021` [Semantic Representation for Dialogue Modeling](https://aclanthology.org/2021.acl-long.342/), **Xuefeng Bai**, Yulong Chen, Linfeng Song and Yue Zhang. [[code](https://github.com/goodbai-nlp/Sem-Dialogue)]
 - ``EMNLP 2022`` [Cross-domain Generalization for AMR Parsing](https://aclanthology.org/2022.emnlp-main.749/), **Xuefeng Bai**, Sen Yang, Leyang Cui, Linfeng Song and Yue Zhang. [[code](https://github.com/goodbai-nlp/AMR-DomainAdaptation)]
 - `COLING 2022` [Semantic-based Pre-training for Dialogue Understanding](https://aclanthology.org/2022.coling-1.49/), **Xuefeng Bai**, Yulong Chen, Linfeng Song and Yue Zhang. [[code](https://github.com/goodbai-nlp/Sem-PLM)]
-- `ACL 2021` [Semantic Representation for Dialogue Modeling](https://aclanthology.org/2021.acl-long.342/), **Xuefeng Bai**, Yulong Chen, Linfeng Song and Yue Zhang. [[code](https://github.com/goodbai-nlp/Sem-Dialogue)]
 - `EMNLP 2020` [Online back-parsing for AMR-to-text generation](https://aclanthology.org/2020.emnlp-main.92/), **Xuefeng Bai**, Linfeng Song and Yue Zhang. [[code](https://github.com/goodbai-nlp/Gen-Backparsing)]
