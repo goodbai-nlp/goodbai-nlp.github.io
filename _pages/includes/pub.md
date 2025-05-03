@@ -1,9 +1,10 @@
 # 📝 Selected Publications 
 
-Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for all publications.
+Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for a complete list of publications.
 
 ## [Recent work on LLMs]
-
+- ``ICML 2025`` [Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin](https://openreview.net/forum?id=QIL44dSUPo), Yuchen Wang, **Xuefeng Bai**, Xinyang Chen, Xiucheng Li, Weili Guan and Liqiang Nie. [[code](to-be-public)]
+- ``IJCAI 2025`` [A Survey on the Feedback Mechanism of LLM-based AI Agents](to-be-public), Zhipeng Liu, **Xuefeng Bai**, Kehai Chen, Xinyang Chen, Xiucheng Li, Yang Xiang, Jin Liu, Hong-Dong Li, Yaowei Wang, Liqiang Nie and Min Zhang. [[code](to-be-public)]
 - ``EMNLP 2024`` [Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering](https://aclanthology.org/2024.findings-emnlp.524/), Yu Zhang, Kehai Chen, **Xuefeng Bai**, Zhao Kang, Quanjiang Guo and Min Zhang. [[code](https://github.com/EchoDreamer/Q-KGR)]
 - ``CoLM 2024`` [See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM Weaknesses](https://openreview.net/forum?id=18iNTRPx8c), Yulong Chen, Yang Liu, Jianhao Yan, **Xuefeng Bai**, Ming Zhong, Yinghao Yang, Ziyi Yang, Chenguang Zhu, Yang Liu and Yue Zhang.
 - ``ACL 2024`` [Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Models](https://aclanthology.org/2024.findings-acl.821/), Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Yang Xiang and Min Zhang. [[code](https://github.com/AzureStarz/paying_attention_to_the_source)]

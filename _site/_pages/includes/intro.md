@@ -4,5 +4,5 @@ My research area spans from large language models (LLMs) and structured learning
 
 <p>
   <span style="color: red; font-weight: bold;">Recruit:</span>
-  I am currently looking for self-motivated undergraduate students, interns, and prospective Master's (2025/2026) or PhD (2026) candidates to doing research with me. If you have a strong interest in LLMs or structures, I’d love to hear from you! Please feel free to reach out via email or visit me at L1910 to discuss potential opportunities.
+  I am currently looking for self-motivated undergraduate students, interns, and prospective Master's (2026) or PhD (2026) candidates to doing research with me. If you have a strong interest in LLMs or structures, I’d love to hear from you! Please feel free to reach out via email or visit me at L1910 to discuss potential opportunities.
 </p>
