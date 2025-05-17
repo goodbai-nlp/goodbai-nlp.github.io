@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Seven paper are accepted at ACL2025, three main paper and four findings.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted at ICML2025.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted at IJCAI2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted at EMNLP2024.
