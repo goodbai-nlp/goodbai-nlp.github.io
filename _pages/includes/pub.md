@@ -3,6 +3,10 @@
 Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for a complete list of publications.
 
 ## [Recent work on LLMs]
+- ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](to-be-public) [[code](to-be-public)]  
+Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Xiucheng Li, Yang Xiang, Min Zhang.
+- ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](to-be-public) [[code](to-be-public)]  
+Zhenyu Li, Kehai Chen, YUNFEI LONG, **Xuefeng Bai**, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
 - ``EMNLP 2025`` [Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](to-be-public) [[code](to-be-public)]  
 Xingzuo Li, Kehai Chen, Yunfei Long, **Xuefeng Bai**, Yong Xu, Min Zhang. 
 - ``EMNLP 2025`` [Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance](to-be-public) [[code](to-be-public)]  

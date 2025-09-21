@@ -1,4 +1,6 @@
 # 🔥 News
+
+- *2025.09*: &nbsp;🎉🎉 Two papers are accepted at NeurIPS2025.
 - *2025.08*: &nbsp;🎉🎉 Two papers are accepted at EMNLP2025, both are main conference.
 - *2025.07*: &nbsp;🎉🎉 Won the championship at the CAMRP2025 evaluation task.
 - *2025.05*: &nbsp;🎉🎉 Five papers are accepted at ACL2025, three main conference and two findings.
