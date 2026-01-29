@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉🎉 Two papers are accepted at ICLR2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted at NeurIPS2025.
 - *2025.08*: &nbsp;🎉🎉 Two papers are accepted at EMNLP2025, both are main conference.
 - *2025.07*: &nbsp;🎉🎉 Won the championship at the CAMRP2025 evaluation task.

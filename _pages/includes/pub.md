@@ -6,11 +6,11 @@ Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgA
 - ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](to-be-public) [[code](to-be-public)]  
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Xiucheng Li, Yang Xiang, Min Zhang.
 - ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](to-be-public) [[code](to-be-public)]  
-Zhenyu Li, Kehai Chen, YUNFEI LONG, **Xuefeng Bai**, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
+Zhenyu Li, Kehai Chen, YUNFEI LONG, **Xuefeng Bai**<sup>✉</sup>, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
 - ``EMNLP 2025`` [Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](to-be-public) [[code](to-be-public)]  
-Xingzuo Li, Kehai Chen, Yunfei Long, **Xuefeng Bai**, Yong Xu, Min Zhang. 
+Xingzuo Li, Kehai Chen, Yunfei Long, **Xuefeng Bai**<sup>✉</sup>, Yong Xu, Min Zhang. 
 - ``EMNLP 2025`` [Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance](to-be-public) [[code](to-be-public)]  
-Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**, Yang Xiang, Muyun Yang, Tiejun Zhao, Min Zhang. 
+Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xiang, Muyun Yang, Tiejun Zhao, Min Zhang. 
 - ``ICML 2025`` [Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin](https://openreview.net/forum?id=QIL44dSUPo) [[code](https://github.com/Noahwangyuchen/CAP)]   
 Yuchen Wang, **Xuefeng Bai**<sup>✉</sup>, Xiucheng Li, Weili Guan, Liqiang Nie and Xinyang Chen<sup>✉</sup>. 
 - ``IJCAI 2025`` [A Survey on the Feedback Mechanism of LLM-based AI Agents](to-be-public) [[code](https://github.com/kevinson7515/Agents-Feedback-Mechanisms)]  
