@@ -3,10 +3,14 @@
 Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for a complete list of publications.
 
 ## [Recent work on LLMs]
+- ``ICLR 2026`` [Evaluating and Improving Cultural Awareness of Reward Models for LLM Alignment](to-be-public) [[code](to-be-public)]  
+Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Yang Xiang, Min Zhang.
+- ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](to-be-public) [[code](to-be-public)]  
+Yuchen Song, Andong Chen, Wenxin Zhu, Kehai Chen, **Xuefeng Bai**, Muyun Yang, Tiejun Zhao.
 - ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](to-be-public) [[code](to-be-public)]  
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Xiucheng Li, Yang Xiang, Min Zhang.
 - ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](to-be-public) [[code](to-be-public)]  
-Zhenyu Li, Kehai Chen, YUNFEI LONG, **Xuefeng Bai**<sup>✉</sup>, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
+Zhenyu Li, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, YUNFEI LONG, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
 - ``EMNLP 2025`` [Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](to-be-public) [[code](to-be-public)]  
 Xingzuo Li, Kehai Chen, Yunfei Long, **Xuefeng Bai**<sup>✉</sup>, Yong Xu, Min Zhang. 
 - ``EMNLP 2025`` [Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance](to-be-public) [[code](to-be-public)]  
@@ -15,7 +19,7 @@ Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xian
 Yuchen Wang, **Xuefeng Bai**<sup>✉</sup>, Xiucheng Li, Weili Guan, Liqiang Nie and Xinyang Chen<sup>✉</sup>. 
 - ``IJCAI 2025`` [A Survey on the Feedback Mechanism of LLM-based AI Agents](to-be-public) [[code](https://github.com/kevinson7515/Agents-Feedback-Mechanisms)]  
 Zhipeng Liu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Xinyang Chen, Xiucheng Li, Yang Xiang, Jin Liu, Hong-Dong Li, Yaowei Wang, Liqiang Nie and Min Zhang. 
-- ``ACL 2025`` [Representation-based Reward Modeling for Efficient Safety Alignment of Large Language Model](https://aclanthology.org/2025.acl-long.1504/) [[code](https://github.com/Fioraz1001/RBRM)]  
+- ``ACL 2025`` [Efficient Safety Alignment of Large Language Models via Preference Re-ranking and Representation-based Reward Modeling](https://aclanthology.org/2025.acl-long.1504/) [[code](https://github.com/Fioraz1001/RBRM)]
 Qiyuan Deng, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yaowei Wang, Liqiang Nie, Min Zhang. 
 - ``ACL 2025`` [Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning](https://aclanthology.org/2025.acl-long.1482/) [[code](https://github.com/AAAndy-Zhu/VGCure)]  
 Yingjie Zhu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang 
