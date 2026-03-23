@@ -3,14 +3,14 @@
 Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for a complete list of publications.
 
 ## [Recent work on LLMs]
-- ``ICLR 2026`` [Evaluating and Improving Cultural Awareness of Reward Models for LLM Alignment](to-be-public) [[code](to-be-public)]  
-Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Yang Xiang, Min Zhang.
-- ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](to-be-public) [[code](to-be-public)]  
-Yuchen Song, Andong Chen, Wenxin Zhu, Kehai Chen, **Xuefeng Bai**, Muyun Yang, Tiejun Zhao.
+- ``ICLR 2026`` [Evaluating and Improving Cultural Awareness of Reward Models for LLM Alignment](https://openreview.net/forum?id=WhSzqsMhfZ) [[code](to-be-public)]  
+Hongbin Zhang, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xiang<sup>✉</sup>, Min Zhang.
+- ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](https://openreview.net/forum?id=jvPdTOSTVl) [[code](to-be-public)]  
+Yuchen Song, Andong Chen, Wenxin Zhu, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Muyun Yang, Tiejun Zhao<sup>✉</sup>.
 - ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](to-be-public) [[code](to-be-public)]  
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Xiucheng Li, Yang Xiang, Min Zhang.
 - ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](to-be-public) [[code](to-be-public)]  
-Zhenyu Li, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, YUNFEI LONG, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
+Zhenyu Li, **Xuefeng Bai**<sup>✉</sup>, Yunfei Long, Kehai Chen, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
 - ``EMNLP 2025`` [Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](to-be-public) [[code](to-be-public)]  
 Xingzuo Li, Kehai Chen, Yunfei Long, **Xuefeng Bai**<sup>✉</sup>, Yong Xu, Min Zhang. 
 - ``EMNLP 2025`` [Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance](to-be-public) [[code](to-be-public)]  
@@ -40,7 +40,7 @@ Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Yang Xiang and Min Zhang.
 Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**,  Yang Xiang, Muyun Yang, Tiejun Zhao and Min Zhang. 
 
 ## [Representative work on Fundamental NLP]
-- ``TASLP 2025`` [Constituency Parsing using LLMs](https://ieeexplore.ieee.org/document/11130901/) [[code](to-be-public)]   
+- ``TASLP 2025`` [Constituency Parsing using LLMs](https://ieeexplore.ieee.org/document/11130901/) [[code](to-be-public)]
 **Xuefeng Bai**, Jialong Wu, Yulong Chen, Zhongqing Wang, Kehai Chen, Min Zhang and Yue Zhang. 
 - ``ACL 2022`` [Graph-pretraining for AMR Parsing and Generation](https://aclanthology.org/2022.acl-long.415/) [[code](https://github.com/goodbai-nlp/AMRBART)] [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-pre-training-for-amr-parsing-and-1/amr-to-text-generation-on-ldc2020t02)](https://paperswithcode.com/sota/amr-to-text-generation-on-ldc2020t02?p=graph-pre-training-for-amr-parsing-and-1)   
 **Xuefeng Bai**, Yulong Chen and Yue Zhang. 
