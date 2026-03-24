@@ -6,13 +6,12 @@
 
 # 📝 Academic Services
 - Area Chair / Action Editor
-    + ARR Rolling Review (2024-now)
-    + EMNLP (2022, 2024)
+    + ACL Rolling Review (2024-now)
+    + EMNLP (2022, 2024, 2025)
     + NAACL 2025
-    + ACL 2025
-    + CCL 2024
+    + ACL 2025, 2026
+    + CCL 2024, 2025
 - Program Committee Member:
-    + ARR, ACL, EMNLP, NAACL, COLING, AACL, CCL, NLPCC, etc.
+    + ICML, NeurIPS, ICLR, ACL, EMNLP, NAACL, COLING, AACL, CCL, NLPCC, etc.
 - Journal Reviewer:
-    
-    + TACL, Machine Learning, ACM/IEEE TASLP, KBS, ACM TALLIP, etc.
+    + TACL, Machine Learning, IEEE NN/TASLP/TAI/TCDS, IPM, KBS, ACM TALLIP, etc.
