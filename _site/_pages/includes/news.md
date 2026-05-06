@@ -1,4 +1,6 @@
 # 🔥 News
+- *Apr. 2026*: &nbsp;🎉🎉 Five papers are accepted at ICML2026, one <span style="color: red; font-weight: bold;">Splotlight</span>(top 2.2%).
+- *Apr. 2026*: &nbsp;🎉🎉 Three papers are accepted at ACL2026, one main conference and two findings.
 - *Mar. 2026*: &nbsp;🎉🎉 We will host the second share task on Classical Chinese Poetry Appreciation at CCL 2026.
 - *Jan. 2026*: &nbsp;🎉🎉 Two papers are accepted at ICLR2026.
 - *Sep. 2025*: &nbsp;🎉🎉 Two papers are accepted at NeurIPS2025.

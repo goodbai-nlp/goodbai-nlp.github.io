@@ -3,6 +3,21 @@
 Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for a complete list of publications.
 
 ## [Recent work on LLMs]
+
+- ``ICML 2026`` [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](to-be-public) [[code](to-be-public)]   
+Yingjie Zhu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Youcheng Pan, Xiaoqiang Zhou, Min Zhang.
+- ``ICML 2026`` [Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](to-be-public) [[code](to-be-public)]   
+Zirui Li, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yizhi Li, Jian Yang, Chenghua Lin, Min Zhang.
+- ``ICML 2026`` [Evaluating and Steering Modality Preferences in Multi-modal LLMs](to-be-public) [[code](to-be-public)]   
+Yu Zhang, Jinlong Ma, Yongshuai Hou, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang.
+- ``ICML 2026`` [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](to-be-public) [[code](to-be-public)]   
+Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Youcheng Pan, Yang Xiang, Jinpeng Wang, Min Zhang.
+- ``ICML 2026`` [The Secret Engine Behind RLHF: It's Contarstive Learning All Along](to-be-public) [[code](to-be-public)]   
+Xufei Lv, Kehai Chen, Haoyuan Sun, **Xuefeng Bai**, Min Zhang, Houde Liu.
+- ``ACL 2026`` [SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking](to-be-public) [[code](to-be-public)]   
+Weiyang Huang, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Xinyang Chen, Yibin Chen, Weili Guan, Min Zhang.
+- ``ACL 2026 (Findings)`` [Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition](to-be-public) [[code](to-be-public)]. 
+Jinlong Ma, Yu Zhang, **Xuefeng Bai**, Kehai Chen, Yuwei Wang, Zeming Liu, Jun Yu, Min Zhang.
 - ``ICLR 2026`` [Evaluating and Improving Cultural Awareness of Reward Models for LLM Alignment](https://openreview.net/forum?id=WhSzqsMhfZ) [[code](to-be-public)]  
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xiang<sup>✉</sup>, Min Zhang.
 - ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](https://openreview.net/forum?id=jvPdTOSTVl) [[code](to-be-public)]  
