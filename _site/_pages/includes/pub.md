@@ -55,7 +55,7 @@ Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Yang Xiang and Min Zhang.
 Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**,  Yang Xiang, Muyun Yang, Tiejun Zhao and Min Zhang. 
 
 ## [Representative work on Fundamental NLP]
-- ``TASLP 2025`` [Constituency Parsing using LLMs](https://ieeexplore.ieee.org/document/11130901/) [[code](to-be-public)]
+- ``TASLP 2025`` [Constituency Parsing using LLMs](https://ieeexplore.ieee.org/document/11130901/) [[code](to-be-public)]   
 **Xuefeng Bai**, Jialong Wu, Yulong Chen, Zhongqing Wang, Kehai Chen, Min Zhang and Yue Zhang. 
 - ``ACL 2022`` [Graph-pretraining for AMR Parsing and Generation](https://aclanthology.org/2022.acl-long.415/) [[code](https://github.com/goodbai-nlp/AMRBART)] [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-pre-training-for-amr-parsing-and-1/amr-to-text-generation-on-ldc2020t02)](https://paperswithcode.com/sota/amr-to-text-generation-on-ldc2020t02?p=graph-pre-training-for-amr-parsing-and-1)   
 **Xuefeng Bai**, Yulong Chen and Yue Zhang. 
