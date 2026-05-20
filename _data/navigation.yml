@@ -1,5 +1,8 @@
 # main links links
 main:
+  # - title: "中文主页"
+  #   url: "https://homepage.hit.edu.cn/baixuefeng"
+
   - title: "About Me"
     url: "/#about-me"
 

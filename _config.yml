@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuefeng Bai"
+  name             : "Xuefeng Bai (白雪峰)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Harbin Institute of Technology (Shenzhen)"
   location         : "Shenzhen, China"
@@ -31,7 +31,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=wqK7rRgAAAAJ"
   email            : "baixuefeng@hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://homepage.hit.edu.cn/baixuefeng"
   bitbucket        :
   codepen          :
   dribbble         :
