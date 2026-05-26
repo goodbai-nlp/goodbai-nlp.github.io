@@ -11,9 +11,9 @@ Zirui Li, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yizhi Li, Jian Yang, Chengh
 - ``ICML 2026`` [Evaluating and Steering Modality Preferences in Multi-modal LLMs](to-be-public) [[code](to-be-public)]   
 Yu Zhang, Jinlong Ma, Yongshuai Hou, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang.
 - ``ICML 2026`` [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](to-be-public) [[code](to-be-public)]   
-Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Youcheng Pan, Yang Xiang, Jinpeng Wang, Min Zhang.
+Hongbin Zhang, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Youcheng Pan, Yang Xiang, Jinpeng Wang, Min Zhang.
 - ``ICML 2026`` [The Secret Engine Behind RLHF: It's Contarstive Learning All Along](to-be-public) [[code](to-be-public)]   
-Xufei Lv, Kehai Chen, Haoyuan Sun, **Xuefeng Bai**, Min Zhang, Houde Liu.
+Xufei Lv, Kehai Chen, Haoyuan Sun, **Xuefeng Bai**<sup>✉</sup>, Min Zhang, Houde Liu<sup>✉</sup>.
 - ``ACL 2026`` [SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking](to-be-public) [[code](to-be-public)]   
 Weiyang Huang, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Xinyang Chen, Yibin Chen, Weili Guan, Min Zhang.
 - ``ACL 2026 (Findings)`` [Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition](to-be-public) [[code](to-be-public)]   
@@ -40,7 +40,7 @@ Qiyuan Deng, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yaowei Wang, Liqiang Nie
 Yingjie Zhu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang 
 - ``ACL 2025`` [Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation](https://aclanthology.org/2025.acl-long.1289/) [[code](https://github.com/coder109/IMAGE)]  
 Andong Chen, Song Yuchen, Kehai Chen, **Xuefeng Bai**, Muyun Yang, Liqiang Nie, Jie Liu, Tiejun Zhao, Min zhang. 
-- ``ACL 2025 (Findings)`` [The Rise of Darkness: Safety-Utility Trade-Offs in Role-Playing Dialogue Agents](https://openreview.net/forum?id=VdYn3O6fjk) [[code]  (to-be-public)]
+- ``ACL 2025 (Findings)`` [The Rise of Darkness: Safety-Utility Trade-Offs in Role-Playing Dialogue Agents](https://openreview.net/forum?id=VdYn3O6fjk) [[code]  (to-be-public)]    
 Yihong Tang, Kehai Chen, **Xuefeng Bai**, Zheng-Yu Niu, Bo Wang, Jie Liu, Min Zhang. 
 - ``ACL 2025 (Findings)`` [LLM-based Translation Inference with Iterative Bilingual Understanding](https://openreview.net/forum?id=BLIqvJcNc6)  [[code](https://github.com/andongBlue/IBUT-Translation)]  
 Andong Chen, Kehai Chen, Yang Xiang, **Xuefeng Bai**, Muyun Yang, Yang Feng, Tiejun Zhao, Min zhang.
