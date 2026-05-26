@@ -35,7 +35,7 @@ Yuchen Wang, **Xuefeng Bai**<sup>✉</sup>, Xiucheng Li, Weili Guan, Liqiang Nie
 - ``IJCAI 2025`` [A Survey on the Feedback Mechanism of LLM-based AI Agents](to-be-public) [[code](https://github.com/kevinson7515/Agents-Feedback-Mechanisms)]  
 Zhipeng Liu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Xinyang Chen, Xiucheng Li, Yang Xiang, Jin Liu, Hong-Dong Li, Yaowei Wang, Liqiang Nie and Min Zhang. 
 - ``ACL 2025`` [Efficient Safety Alignment of Large Language Models via Preference Re-ranking and Representation-based Reward Modeling](https://aclanthology.org/2025.acl-long.1504/) [[code](https://github.com/Fioraz1001/RBRM)]
-Qiyuan Deng, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yaowei Wang, Liqiang Nie, Min Zhang. 
+Qiyuan Deng, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yaowei Wang, Liqiang Nie, Min Zhang.   
 - ``ACL 2025`` [Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning](https://aclanthology.org/2025.acl-long.1482/) [[code](https://github.com/AAAndy-Zhu/VGCure)]  
 Yingjie Zhu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang 
 - ``ACL 2025`` [Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation](https://aclanthology.org/2025.acl-long.1289/) [[code](https://github.com/coder109/IMAGE)]  
