@@ -22,6 +22,8 @@ Jinlong Ma, Yu Zhang, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yuwei Wang, Zem
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xiang<sup>✉</sup>, Min Zhang.
 - ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](https://openreview.net/forum?id=jvPdTOSTVl) [[code](to-be-public)]  
 Yuchen Song, Andong Chen, Wenxin Zhu, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Muyun Yang, Tiejun Zhao<sup>✉</sup>.
+- ``TKDE 2026`` [Structure Pruning with LLMs for Knowledge Graph Question Answering](to-be-public) [[code](to-be-public)]   
+Mufan Xu, Kehai Chen, **Xuefeng Bai**, Muyun Yang, Tiejun Zhao, Min Zhang.
 - ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](to-be-public) [[code](to-be-public)]    
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Xiucheng Li, Yang Xiang, Min Zhang.
 - ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](to-be-public) [[code](to-be-public)]  

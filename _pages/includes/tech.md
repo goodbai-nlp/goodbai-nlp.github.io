@@ -12,6 +12,6 @@
     + ACL 2025, 2026
     + CCL 2024, 2025
 - Program Committee Member:
-    + ICML, NeurIPS, ICLR, ACL, EMNLP, NAACL, COLING, AACL, CCL, NLPCC, etc.
+    + ICML, NeurIPS, ICLR, ACL, EMNLP, AAAI, NAACL, COLING, AACL, CCL, NLPCC, etc.
 - Journal Reviewer:
-    + TACL, Machine Learning, IEEE NN/TASLP/TAI/TCDS, IPM, KBS, ACM TALLIP, etc.
+    + TMLR, TACL, Machine Learning, IEEE NN/TASLP/TAI/TCDS, IPM, KBS, ACM TALLIP, etc.
