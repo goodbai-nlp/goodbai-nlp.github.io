@@ -5,7 +5,7 @@ Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgA
 ## [Recent work on LLMs]
 - ``NeurIPS 2026`` [Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration](to-be-public) [[code](to-be-public)]   
 Yu Zhang, Mufan Xu, **Xuefeng Bai**, Kehai Chen, Pengfei Zhang, Yang Xiang, Min Zhang. 
-- ``NeurIPS 2026`` [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](to-be-public) [[code](to-be-public)] 
+- ``NeurIPS 2026`` [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](to-be-public) [[code](to-be-public)]   
 Caishen Zhou, Yihong Tang, **Xuefeng Bai**, Kehai Chen,  Min Zhang. 
 - ``NeurIPS 2026`` [GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](to-be-public) [[code](to-be-public)]   
 Shaoqing Zhang, Kehai Chen, **Xuefeng Bai**, Zhuosheng Zhang, Pengfei Zhang, Yang Xiang, Min Zhang. 
