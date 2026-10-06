@@ -3,34 +3,39 @@
 Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgAAAAJ) for a complete list of publications.
 
 ## [Recent work on LLMs]
-
-- ``ICML 2026 (splotlight)`` [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](to-be-public) [[code](to-be-public)]   
+- ``NeurIPS 2026`` [Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration](to-be-public) [[code](to-be-public)]   
+Yu Zhang, Mufan Xu, **Xuefeng Bai**, Kehai Chen, Pengfei Zhang, Yang Xiang, Min Zhang. 
+- ``NeurIPS 2026`` [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](to-be-public) [[code](to-be-public)] 
+Caishen Zhou, Yihong Tang, **Xuefeng Bai**, Kehai Chen,  Min Zhang. 
+- ``NeurIPS 2026`` [GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](to-be-public) [[code](to-be-public)]   
+Shaoqing Zhang, Kehai Chen, **Xuefeng Bai**, Zhuosheng Zhang, Pengfei Zhang, Yang Xiang, Min Zhang. 
+- ``ICML 2026 (splotlight)`` [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](https://openreview.net/pdf?id=PN7l7mBPDO) [[code](https://github.com/AAAndy-Zhu/TableVLM)]   
 Yingjie Zhu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Youcheng Pan, Xiaoqiang Zhou, Min Zhang.
-- ``ICML 2026`` [Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](to-be-public) [[code](to-be-public)]   
+- ``ICML 2026`` [Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](https://openreview.net/pdf?id=kHB8m3ojGe) [[code](https://github.com/J1mL1/causal-latent-cot)]   
 Zirui Li, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yizhi Li, Jian Yang, Chenghua Lin, Min Zhang.
-- ``ICML 2026`` [Evaluating and Steering Modality Preferences in Multi-modal LLMs](to-be-public) [[code](to-be-public)]   
+- ``ICML 2026`` [Evaluating and Steering Modality Preferences in Multi-modal LLMs](https://openreview.net/pdf?id=sWW6lvti8X) [[code](https://github.com/EchoDreamer/Modality-Preference)]   
 Yu Zhang, Jinlong Ma, Yongshuai Hou, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang.
-- ``ICML 2026`` [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](to-be-public) [[code](to-be-public)]   
+- ``ICML 2026`` [Mitigating Translationese Bias in Multilingual LLM-as-a-Judge via Disentangled Information Bottleneck](https://openreview.net/pdf?id=yW5LkzZN0T) [[code](to-be-public)]   
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Youcheng Pan, Yang Xiang, Jinpeng Wang, Min Zhang.
-- ``ICML 2026`` [The Secret Engine Behind RLHF: It's Contarstive Learning All Along](to-be-public) [[code](to-be-public)]   
+- ``ICML 2026`` [The Secret Engine Behind RLHF: It's Contarstive Learning All Along](https://openreview.net/pdf?id=MJ25gbGhPu) [[code](https://github.com/Mutual-Information-Optimisation/MIO)]   
 Xufei Lv, Kehai Chen, Haoyuan Sun, **Xuefeng Bai**<sup>✉</sup>, Min Zhang, Houde Liu<sup>✉</sup>.
-- ``ACL 2026`` [SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking](to-be-public) [[code](to-be-public)]   
+- ``ACL 2026`` [SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking](https://aclanthology.org/2026.acl-long.2009.pdf) [[code](https://github.com/byxw13/SAT_Code)]   
 Weiyang Huang, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Xinyang Chen, Yibin Chen, Weili Guan, Min Zhang.
-- ``ACL 2026 (Findings)`` [Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition](to-be-public) [[code](to-be-public)]   
+- ``ACL 2026 (Findings)`` [Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition](https://aclanthology.org/2026.findings-acl.2162.pdf) [[code](https://github.com/aaaalonga/MCR)]   
 Jinlong Ma, Yu Zhang, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yuwei Wang, Zeming Liu<sup>✉</sup>, Jun Yu, Min Zhang.
 - ``ICLR 2026`` [Evaluating and Improving Cultural Awareness of Reward Models for LLM Alignment](https://openreview.net/forum?id=WhSzqsMhfZ) [[code](to-be-public)]  
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xiang<sup>✉</sup>, Min Zhang.
-- ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](https://openreview.net/forum?id=jvPdTOSTVl) [[code](to-be-public)]  
+- ``ICLR 2026`` [Culture In a Frame: C<sup>3</sup>B as a Comic-Based Benchmark for Multimodal Culturally Awareness](https://openreview.net/forum?id=jvPdTOSTVl) [[code](https://c3b-benchmark.github.io/)]  
 Yuchen Song, Andong Chen, Wenxin Zhu, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Muyun Yang, Tiejun Zhao<sup>✉</sup>.
-- ``TKDE 2026`` [Structure Pruning with LLMs for Knowledge Graph Question Answering](to-be-public) [[code](to-be-public)]   
+- ``TKDE 2026`` [Structure Pruning with LLMs for Knowledge Graph Question Answering](https://ieeexplore.ieee.org/abstract/document/11647748/) [[code](to-be-public)]   
 Mufan Xu, Kehai Chen, **Xuefeng Bai**, Muyun Yang, Tiejun Zhao, Min Zhang.
-- ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](to-be-public) [[code](to-be-public)]    
+- ``NeurIPS 2025`` [Exploring Translation Mechanism of Large Language Models](https://openreview.net/pdf?id=3QjESmXftM) [[code](https://github.com/AzureStarz/exploring_translation_mechanism)]    
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Xiucheng Li, Yang Xiang, Min Zhang.
-- ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](to-be-public) [[code](to-be-public)]  
+- ``NeurIPS 2025`` [XIFBench: Evaluating Large Language Models on Multilingual Instruction Following](https://openreview.net/pdf?id=qkdVjCAPOE) [[code](https://github.com/zhenyuli801/XIFBench)]  
 Zhenyu Li, **Xuefeng Bai**<sup>✉</sup>, Yunfei Long, Kehai Chen, Yaoyin Zhang, Xuchen Wei, Juntao Li, Min Zhang.
-- ``EMNLP 2025`` [Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](to-be-public) [[code](to-be-public)]  
+- ``EMNLP 2025`` [Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](https://aclanthology.org/2025.emnlp-main.892.pdf) [[code](https://github.com/wisper12933/GA-Rollback)]  
 Xingzuo Li, Kehai Chen, Yunfei Long, **Xuefeng Bai**<sup>✉</sup>, Yong Xu, Min Zhang. 
-- ``EMNLP 2025`` [Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance](to-be-public) [[code](to-be-public)]  
+- ``EMNLP 2025`` [Benchmarking LLMs for Translating Classical Chinese Poetry: Evaluating Adequacy, Fluency, and Elegance](https://aclanthology.org/2025.emnlp-main.1678/) [[code](https://github.com/andongBlue/PoetMT)]  
 Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**<sup>✉</sup>, Yang Xiang, Muyun Yang, Tiejun Zhao, Min Zhang. 
 - ``ICML 2025`` [Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin](https://openreview.net/forum?id=QIL44dSUPo) [[code](https://github.com/Noahwangyuchen/CAP)]   
 Yuchen Wang, **Xuefeng Bai**<sup>✉</sup>, Xiucheng Li, Weili Guan, Liqiang Nie and Xinyang Chen<sup>✉</sup>. 
