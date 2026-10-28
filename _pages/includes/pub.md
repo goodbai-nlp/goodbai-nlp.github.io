@@ -4,11 +4,11 @@ Please go to [Google Scholar](https://scholar.google.com/citations?user=wqK7rRgA
 
 ## [Recent work on LLMs]
 - ``NeurIPS 2026`` [Instruction Anchor: Dissecting the Mechanistic Dynamics of Modality Arbitration](to-be-public) [[code](to-be-public)]   
-Yu Zhang, Mufan Xu, **Xuefeng Bai**, Kehai Chen, Pengfei Zhang, Yang Xiang, Min Zhang. 
+Yu Zhang, Mufan Xu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Pengfei Zhang, Yang Xiang, Min Zhang. 
 - ``NeurIPS 2026`` [Know Where You Stand: Memory-Source Choice in Long-Context Dialogue Agents](to-be-public) [[code](to-be-public)]   
 Caishen Zhou, Yihong Tang, **Xuefeng Bai**, Kehai Chen,  Min Zhang. 
 - ``NeurIPS 2026`` [GUITAR: Structured Failure Diagnosis of GUI Agents via State Transitions](to-be-public) [[code](to-be-public)]   
-Shaoqing Zhang, Kehai Chen, **Xuefeng Bai**, Zhuosheng Zhang, Pengfei Zhang, Yang Xiang, Min Zhang. 
+Shaoqing Zhang, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Zhuosheng Zhang, Pengfei Zhang, Yang Xiang<sup>✉</sup>, Min Zhang. 
 - ``ICML 2026 (splotlight)`` [Decoupling Skeleton and Flesh: Efficient Multimodal Table Reasoning with Disentangled Alignment and Structure-aware Guidance](https://openreview.net/pdf?id=PN7l7mBPDO) [[code](https://github.com/AAAndy-Zhu/TableVLM)]   
 Yingjie Zhu, **Xuefeng Bai**<sup>✉</sup>, Kehai Chen, Yang Xiang, Youcheng Pan, Xiaoqiang Zhou, Min Zhang.
 - ``ICML 2026`` [Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure](https://openreview.net/pdf?id=kHB8m3ojGe) [[code](https://github.com/J1mL1/causal-latent-cot)]   
@@ -57,7 +57,6 @@ Yu Zhang, Kehai Chen, **Xuefeng Bai**, Zhao Kang, Quanjiang Guo and Min Zhang.
 Yulong Chen, Yang Liu, Jianhao Yan, **Xuefeng Bai**, Ming Zhong, Yinghao Yang, Ziyi Yang, Chenguang Zhu, Yang Liu and Yue Zhang.
 - ``ACL 2024 (Findings)`` [Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Models](https://aclanthology.org/2024.findings-acl.821/) [[code](https://github.com/AzureStarz/paying_attention_to_the_source)]  
 Hongbin Zhang, Kehai Chen, **Xuefeng Bai**, Yang Xiang and Min Zhang. 
-
 - ``ACL 2024`` [DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms](https://aclanthology.org/2024.acl-short.64/) [[code](https://github.com/loulianzhang/Dual-Reflect)]  
 Andong Chen, Lianzhang Lou, Kehai Chen, **Xuefeng Bai**,  Yang Xiang, Muyun Yang, Tiejun Zhao and Min Zhang. 
 
