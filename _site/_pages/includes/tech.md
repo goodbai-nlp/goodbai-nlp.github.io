@@ -5,12 +5,17 @@
     + Undergraduate, HITsz, Fall (2024, 2025)
 
 # 📝 Academic Services
-- Area Chair / Action Editor
+- AACL Workshop Chair (2026-2027)
+- Area Chair / Action Editor / SPC
     + ACL Rolling Review (2024-now)
+    + ACL 2025, 2026
+    + AAAI 2026
     + EMNLP (2022, 2024, 2025, 2026)
     + NAACL 2025
-    + ACL 2025, 2026
     + CCL 2024, 2025
++ Journal Editor
+  + AE, Large Language Model (Scilight Press)
+  + Guest AE, Electronics (MDPI Press)
 - Program Committee Member:
     + ICML, NeurIPS, ICLR, ACL, EMNLP, AAAI, NAACL, COLING, AACL, CCL, NLPCC, etc.
 - Journal Reviewer:
