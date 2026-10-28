@@ -13,9 +13,9 @@
     + EMNLP (2022, 2024, 2025, 2026)
     + NAACL 2025
     + CCL 2024, 2025
-+ Journal Editor
-  + AE, Large Language Model (Scilight Press)
-  + Guest AE, Electronics (MDPI Press)
+- Journal Editor
+    + AE, Large Language Model (Scilight Press)
+    + Guest AE, Electronics (MDPI Press)
 - Program Committee Member:
     + ICML, NeurIPS, ICLR, ACL, EMNLP, AAAI, NAACL, COLING, AACL, CCL, NLPCC, etc.
 - Journal Reviewer:
